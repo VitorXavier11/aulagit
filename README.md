@@ -1,2 +1,2 @@
 # aulagit
-tentando aprendeeer
+tentando aprender
